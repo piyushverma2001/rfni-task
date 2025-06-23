@@ -15,7 +15,7 @@ This is a Laravel project that provides a secure RESTful API for managing articl
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/piyushverma2001/rfni-task.git
     cd your-repository/rfni-task
     ```
 
